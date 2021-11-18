@@ -125,10 +125,6 @@ For any additional questions, please contact Noah-John Hizon at noahiz917@gmail.
 
 
 ...
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
 ├── zippedData                                   #folder containing data used for analysis
 ├── README.md
 ├── Film Studio - Initial Recommendations.pdf    #pdf of presentation
