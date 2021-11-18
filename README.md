@@ -1,10 +1,6 @@
 # Phase 1 Project - Film Studio - Initial Recommendations
 
 
-## Project Overview
-
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
-
 ### Business Problem
 
 Microsoft has decided to create a new movie studio, but they are ill informed about the process of creating successful films. The relative "success" of a movie is a result of a variety of factors; even from viewer to viewer, there is an inherent subjectivity in reported satisfaction. While the profit a film makes is an undeniably objective metric of success, it rarely paints the picture of the impact a whole film can have on its audience. Data from online databases will be aggregated/summarized in order to determine defining characteristics of successful films. Isolating prime directors, actors/actresses, and genres to pursue will assist Microsoft in creating films that are profitable from both audience and financial standpoints.
