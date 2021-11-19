@@ -128,6 +128,6 @@ For any additional questions, please contact Noah-John Hizon at noahiz917@gmail.
 ├── zippedData                                   #folder containing data used for analysis
 ├── README.md
 ├── Film Studio - Initial Recommendations.pdf    #pdf of presentation
-├── phase_1_project_jupyternotebook              #pdf of jupyter notebook
+├── jupyternotebook                              #pdf of jupyter notebook
 └── student.ipynb                                #jupyter notebook containing all relevant summaries/analyses
 
